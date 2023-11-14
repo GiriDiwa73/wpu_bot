@@ -7,4 +7,5 @@
   "error": "> _\"Kode ini kenapa error ya padahal udah bener\"_ \nSebutkan error apa yang kamu temukan, hanya memberi kode juga tidak akan menyelesaikan permasalahanmu.",
   "undefined": "Dapat error seperti ini? \n```\nCannot read properties of undefined (reading \"XYZ\")\n``` \nError tersebut menyatakan bahwa kamu mencoba mengakses/menjalankan sebuah property yang kosong/undefined. Solusinya kamu bisa mengecek ulang nama variable yang akan dijalankan atau cek kembali apa yang kamu masukkan ke dalam property tersebut.",
   "nama-channel": "**Perhatikan nama channelnya!** \nJika nama channel diawali dengan `wpu-` artinya channel ini hanya untuk materi seputar video WPU! \nSilahkan ke channel yang tidak berawalan `wpu-` yang bersangkutan dengan pertanyaanmu."
+  "pro-tips":"Minimal Udh paham Dulu erornya, Solve sendiri kalau mentok baru kemari, ingat Jangan pakai Kata-Kata ini `saya Pemula bang` ,`saya belum bisa bang`, `saya masih belajar bang`, kita di sini pemula semua tadinya tapi mau usaha makanya jadi bisa"
 }
